@@ -1,6 +1,5 @@
 import Logo from "@/app/_components/Logo";
-import Navigation from "@/app/_components/navigation";
-
+import Navigation from "./Navigation";
 function Header() {
   return (
     <header className="border-b border-primary-900 px-8 py-5">
